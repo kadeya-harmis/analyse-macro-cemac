@@ -1,0 +1,16 @@
+# Données brutes : retéléchargeables via src/01_collecte.py
+data/raw/*
+!data/raw/.gitkeep
+
+# Environnements Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Système
+.DS_Store
+Thumbs.db
