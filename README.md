@@ -71,7 +71,7 @@ Un lecteur doit comprendre vos conclusions sans lire le code.
 ![Croissance du PIB](figures/01_croissance_pib.png)
 -->
 
-*Section à compléter.*
+
 
 ## Limites
 
@@ -81,5 +81,5 @@ Un lecteur doit comprendre vos conclusions sans lire le code.
 
 ## Auteure
 
-**Kadeya Harmis** — Data Scientist · Data Analyst
+**KADEYA HARMIS** — Data Scientist · Data Analyst
 [LinkedIn](https://linkedin.com/in/kadeya-harmis-3b185b348) · [GitHub](https://github.com/Kadeya-harmis)
